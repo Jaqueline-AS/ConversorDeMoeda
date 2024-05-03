@@ -8,7 +8,7 @@ public class Main {
 
         Converter converter = new Converter();
 
-        while (running)
+
         System.out.println("\n*******************************************************");
         System.out.println("Seja bem vindo(a) ao conversor de moeda!\n");
         System.out.println("1) Dolar =>> Peso argentino");
