@@ -50,3 +50,8 @@ Observações:
 . As taxas de câmbio podem variar ligeiramente em comparação com outras fontes.
 
 . É importante verificar as taxas de câmbio mais recentes antes de realizar qualquer transação.
+
+
+. Autores:
+
+- Jaqueline Apostolo dos Santos.
