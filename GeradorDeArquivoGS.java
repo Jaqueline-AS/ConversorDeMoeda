@@ -8,6 +8,6 @@ public class GeradorDeArquivoGS {
 
     public void saveJson (Rates rates) throws IOException {
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        //FileWriter escrtta = new FileWriter(rates.)
+        //FileWriter escrita = new FileWriter(rates.)
     }
 }

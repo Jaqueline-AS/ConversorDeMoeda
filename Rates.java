@@ -1,4 +1,4 @@
-public record Rates(double realBrasileiro,
-                    double pesoColombiano, double pesoArgentino){
+public record Rates(double BRL,
+                    double COP, double ARS, double USD){
 }
 
