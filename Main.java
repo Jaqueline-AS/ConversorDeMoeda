@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Main {
@@ -83,4 +84,7 @@ public class Main {
         System.out.println("Obrigada por usar o conversor de moeda!");
 
     }
+=======
+package PACKAGE_NAME;public class Main {
+>>>>>>> 7dfb213da58e970699422a66046a6d7c23066f2f
 }

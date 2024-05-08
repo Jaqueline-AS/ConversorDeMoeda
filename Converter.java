@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import com.google.gson.*;
 
 import java.io.InputStream;
@@ -65,3 +66,7 @@ public class Converter {
         }
     }
 
+=======
+package PACKAGE_NAME;public class Converter {
+}
+>>>>>>> 7dfb213da58e970699422a66046a6d7c23066f2f
